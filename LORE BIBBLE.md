@@ -8,6 +8,16 @@
 
 ---
 
+Judul: Eternity World(永遠の世界)
+
+Genre: Fantasi, Petualangan, Drama, Coming-of-Age,Romance
+
+Sinopsis:
+Iam Matherys terlahir kembali ke dunia asing dengan ingatan parsial dari kehidupan sebelumnya, seorang anak yang pendiam dan penuh rasa ingin tahu, mulai perlahan memahami aturan, budaya, dan rahasia dunia di sekelilingnya. Sejak kecil, ia mengamati dan mempelajari kehidupan dengan cermat, memikirkan skenario, hubungan, dan peluang yang ada di setiap interaksi. Saat menginjak usia delapan tahun, rasa ingin tahu dan kreativitasnya membawanya pada penemuan sihir yang unik: kemampuan untuk menciptakan dua tubuh tambahan, yang kemudian ia beri nama Jester dan Yuichi, masing-masing dengan kepribadian, tujuan, dan kemampuan sendiri, namun tetap setengah loyal kepadanya. Bersama ketiga sosok ini, Iam menjalani masa kecil yang penuh penemuan, latihan, dan eksplorasi, membangun ikatan yang unik antara kakak dan adik ciptaan, menghadapi tantangan dunia dengan cara mereka sendiri, dan perlahan berkembang hingga dewasa, menyadari bahwa pertumbuhan, hubungan, dan pemahaman diri kadang lebih penting daripada apa pun yang tampak luar biasa di permukaan.
+
+PENULISAN'
+MENGGUNAKAN KATA MUDAH DIPAHAMI(SIMPLE) TANPA MENGGUNAKAN KATA BERLEBIHAN ATAU SULIT DIPAHAMI 
+
 ## TABLE OF CONTENTS (STABLE)
 
 1. World Identity & Ontology
@@ -3947,6 +3957,467 @@ CHARACTER PENTING/PENDUKUNG-
 | 98 | Vanya Nightfall | 29 | F | Human | Assassin | Nightfall Alley |
 | 99 | Kaelith Moonstar | 31 | M | Elf | Warrior | Moonstar Arena |
 | 100| Darius Ironclad | 40 | M | Dwarf | Guard Captain | Ironclad Fortress |
+
+# Heroine 1 – Yuichi
+
+## Identitas Dasar
+- **Nama:** Lysera Vayl  
+- **Alias / Nickname:** Lyra  
+- **Umur:** 16 tahun  
+- **Gender:** Female  
+- **Ras:** Elf-Human Hybrid (75% Elf, 25% Human)  
+- **Elemen:** Water / Healing  
+- **Tempat Lahir:** Aquilith Springs, Northern Kingdom  
+- **Kehidupan Saat Ini:** Akademi Sihir, Northern Kingdom Capital  
+- **Status Sosial:** Keluarga Mage Kelas Menengah  
+
+## Penampilan Fisik
+- **Tinggi:** 165 cm  
+- **Berat:** 53 kg  
+- **Warna Rambut:** Biru gelap dengan highlight perak  
+- **Warna Mata:** Biru muda, bercahaya saat menggunakan sihir  
+- **Ciri Khas:** Telinga sedikit runcing, tato rune water magic di lengan kiri  
+- **Gaya Pakaian:** Jubah mage tradisional Northern Kingdom, motif gelombang air  
+
+## Profil Psikologis
+- **Kepribadian:** Empatik, analitis, calm under pressure, idealistik  
+- **Mekanisme Mental:** Strategis, selalu memikirkan konsekuensi, peka terhadap energi orang lain  
+- **Trauma / Luka:** Kehilangan kakak → takut kehilangan orang terdekat; tekanan ekspektasi keluarga  
+
+## Kekuatan & Skill
+- Mastery Water Magic & Healing  
+- Taktik & Strategi  
+- Diplomasi & Negosiasi  
+
+## Batasan / Weaknesses
+- Fisik lemah, naif terhadap tipu daya, terlalu mengandalkan sihir  
+
+## Sejarah / Latar Belakang
+- Dibesarkan di Aquilith Springs, latihan sejak umur 5 tahun  
+- Bergabung Akademi , Dan bertemu Yuichi Saat Lyra Sedang Diserang Bandit, Dan Saat Itu Yuichi 13 Tahun dan Lyra 16
+- Terlibat misi awal untuk memahami distorsi mana di dunia  
+
+## Hubungan & Dinamika
+- **Yuichi:** Relationship Development
+- Uknown
+- **Status Relasi:** Emosi kompleks → cinta atau persahabatan erat  
+
+## Motivasi & Goals
+- Membantu Yuichi mengendalikan kekuatannya  
+- Menjadi healer & protector  
+- Menyelidiki misteri mana dan artefak kuno  
+- Membuktikan kemampuan hybrid mage  
+
+## Pola Tingkah Laku / Rutinitas
+- Latihan sihir setiap pagi  
+- Membaca & mempelajari artefak / sejarah magic  
+- Interaksi sosial & meditasi  
+
+## Afeksi & Preferensi
+- **Music / Emotional Anchor:** Lagu air, instrumen petik, suara alam  
+- **Visual / Imajinasi:** Sungai, air terjun, senja di hutan elf  
+- **Afeksi Fiktif:** Karakter anime / manga favorit sebagai inspirasi  
+
+## Foreshadowing / Catatan Masa Depan
+- Inti kombinasi serangan air + dark element Yuichi  
+- Emosi dan kepekaannya menjadi faktor moral choice  
+- Healer utama untuk konflik besar  
+
+## Catatan Tambahan
+- Simbol keseimbangan manusia & elf, emosi & logika  
+- Rune air → sumber minor healing passive
+- Lyra Bertemu Yuichi saat Yuichi Berumur 13 tahun dan Lyra 16 tahun
+- Lyra Dan Yuichi Berbeda 3 tahun
+
+- # Heroine 2 – Yuichi
+
+## Identitas Dasar
+- **Nama:** Seraphina Liora  
+- **Alias / Nickname:** Sera  
+- **Umur:** 17 tahun  
+- **Gender:** Female  
+- **Ras:** Half-Demon / Human Hybrid (50% Demon, 50% Human)  
+- **Elemen:** Fire / Shadow  
+- **Tempat Lahir:** Emberfall Citadel, Southern Wastes, Aetherion  
+- **Kehidupan Saat Ini:** Akademi Northern Arcane Institute  
+- **Status Sosial:** Keluarga bangsawan fallen, kini hidup independen  
+
+## Penampilan Fisik
+- **Tinggi:** 168 cm  
+- **Berat:** 55 kg  
+- **Warna Rambut:** Merah gelap dengan gradasi hitam di ujung  
+- **Warna Mata:** Kuning kemerahan, bercahaya saat marah atau fokus  
+- **Ciri Khas:** Tanduk kecil tersembunyi di rambut, bekas luka di lengan kanan  
+- **Gaya Pakaian:** Jubah latihan hitam-merah, sarung tangan runic untuk kontrol elemen api  
+
+## Profil Psikologis
+- **Kepribadian:** Berani, agresif, impulsif namun cerdas; loyal; sedikit temperamental  
+- **Mekanisme Mental:** Menggunakan insting survival; cepat menilai situasi; memprioritaskan keselamatan diri & teman dekat  
+- **Trauma / Luka:** Kehilangan orang tua akibat perang internal, takut dikhianati → menjadi protektif terhadap Yuichi  
+
+## Kekuatan & Skill
+- Elemen Fire + Shadow Magic Mastery  
+- Keahlian tempur close-combat, khususnya beladiri demon-enhanced  
+- Strategi taktis sederhana, insting bertahan hidup tinggi  
+- Manipulasi aura untuk pengintaian & defensif  
+
+## Batasan / Weaknesses
+- Kesulitan mengontrol emosi → kekuatan bisa meluap  
+- Keterbatasan stamina fisik saat menggunakan sihir besar  
+- Trauma masa lalu membuatnya ragu terhadap pihak ketiga  
+
+## Sejarah / Latar Belakang
+- Dibesarkan di Emberfall Citadel, belajar sihir demon hybrid sejak usia 7  
+- Selamat dari serangan kerajaan lain saat berusia 14 → memicu ketertarikan pada survival dan strategi  
+- Masuk Northern Arcane Institute pada umur 16 untuk mengembangkan kemampuan lebih lanjut  
+- Bertemu Yuichi saat latihan elemen Dark & Water di academy dan terlibat konflik
+
+## Hubungan & Dinamika
+- **Yuichi:** Persahabatan erat, saling melengkapi kekuatan; awalnya konflik → tumbuh ke saling percaya  
+- **Status Relasi:** Emosi campur aduk → rasa kagum, persahabatan erat, potensi romansa perlahan  
+
+## Motivasi & Goals
+- Mengendalikan kekuatan demon hybrid tanpa merusak diri sendiri  
+- Melindungi orang terdekat (Yuichi & Lyra)  
+- Menjadi mage yang mampu mengubah persepsi masyarakat terhadap hybrid demon  
+
+## Pola Tingkah Laku / Rutinitas
+- Latihan elemen Fire & Shadow setiap sore  
+- Studi ritual & artefak yang berhubungan dengan demon  
+- Memantau lingkungan sekitar, survival & latihan taktis  
+- Interaksi sosial terbatas, fokus pada teman dekat  
+
+## Afeksi & Preferensi
+- **Music / Emotional Anchor:** Lagu bergaya orkestra dramatis & beat cepat  
+- **Visual / Imajinasi:** Gunung berapi, cahaya api malam, bayangan panjang  
+- **Afeksi Fiktif:** Karakter anime antihero / rebel untuk inspirasi  
+
+## Foreshadowing / Catatan Masa Depan
+- Kemampuan Fire + Shadow bisa sinkron dengan Dark mana Yuichi → potensi combo besar  
+- Loyalitas dan keberanian Sera menjadi faktor moral choice dalam konflik  
+- Potensi menjadi “protector” utama untuk Yuichi dan Lyra  
+
+## Catatan Tambahan
+- Representasi hybrid demon-human → tema dualitas kekuatan & emosional  
+- Tanduk kecil & bekas luka → simbol masa lalu dan ketahanan  
+- Masuk academy pada umur 16 → menjadi kunci pertumbuhan karakter Yuichi
+- Bertemu Yuichi Saat Dia Berumur 17 Tahun Dan Yuichi Yang baru mausk Academy Berumur 16 Tahun
+
+
+# Heroine 1 – Jester
+
+## Identitas Dasar
+- **Nama:** Aveline Starwhisper  
+- **Alias / Nickname:** Ave / Star  
+- **Umur:** 17 tahun  
+- **Gender:** Female  
+- **Ras:** Human / Fey Hybrid (80% Human, 20% Fey)  
+- **Elemen:** Space / Illusion  
+- **Tempat Lahir:** Luminara City, Floating Isles, Aetherion  
+- **Kehidupan Saat Ini:** Northern Arcane Institute, dormitory Space Wing  
+- **Status Sosial:** Keluarga intelektual mage kelas menengah, minor nobility  
+
+## Penampilan Fisik
+- **Tinggi:** 162 cm  
+- **Berat:** 50 kg  
+- **Warna Rambut:** Silver lavender dengan highlight biru muda  
+- **Warna Mata:** Ungu bercahaya, berubah intensitas saat menggunakan sihir ruang  
+- **Ciri Khas:** Telinga sedikit meruncing ala fey, mata bisa menembus ilusi lemah  
+- **Gaya Pakaian:** Jubah mage Space Wing academy, motif bintang dan galaksi  
+
+## Profil Psikologis
+- **Kepribadian:** Ceria, aktif, kreatif, suka menggoda dengan humor; mudah penasaran  
+- **Mekanisme Mental:** Otak cepat, suka teka-teki & trik, logis saat perlu; intuitif dalam membaca lawan  
+- **Trauma / Luka:** Pernah disalahpahami karena kemampuannya menciptakan ilusi → belajar berhati-hati  
+
+## Kekuatan & Skill
+- Sihir utama: Space / Illusion Magic Mastery  
+- Kreativitas tinggi untuk manipulasi ruang & jebakan  
+- Trik sulap dan pengalihan perhatian  
+- Strategi cerdas dalam duel & teamwork  
+
+## Batasan / Weaknesses
+- Fisik lemah, bergantung pada sihir & kreativitas  
+- Ilusi besar sangat menguras mana  
+- Kadang terlalu percaya diri → rentan terhadap kejutan nyata  
+
+## Sejarah / Latar Belakang
+- Masuk Northern Arcane Institute umur 16 → ditempatkan di Space Wing
+- Ikut misi awal untuk memahami distorsi mana & penggunaan ruang di dunia nyata  
+
+## Hubungan & Dinamika
+- **Jester:** Persahabatan erat & koneksi emosional unik, saling melengkapi kekuatan dan gaya bertarung  
+- **Status Relasi:** Dinamis, sering saling menggoda, awalnya friendly rivalry → berkembang menjadi kepercayaan tinggi  
+
+## Motivasi & Goals
+- Menguasai sihir ruang & ilusi untuk membela teman dan menghadapi ancaman besar  
+- Menjadi mage kreatif yang bisa mengubah persepsi masyarakat tentang ilusi  
+- Eksperimen & riset terkait ruang, artefak kuno, dan kombinasi elemen  
+
+## Pola Tingkah Laku / Rutinitas
+- Latihan sihir ruang & ilusi setiap hari, fokus pada presisi  
+- Eksperimen kreatif, sulap, dan permainan strategi  
+- Berinteraksi sosial ringan, humor sebagai “pemecah ketegangan”  
+
+## Afeksi & Preferensi
+- **Music / Emotional Anchor:** Melodi upbeat, klasik modern, musik magis & fantasi  
+- **Visual / Imajinasi:** Langit malam, bintang jatuh, kota terapung saat senja  
+- **Afeksi Fiktif:** Inspirasi dari karakter ceria, cerdik, dan ahli trik  
+
+## Foreshadowing / Catatan Masa Depan
+- Potensi kombinasi ilusi + ruang dengan Jester → skill unik dalam misi & pertarungan  
+- Loyalitas tinggi → menjadi faktor moral choice  
+- Bisa menjadi mediator & motivator tim ketika konflik muncul  
+
+## Catatan Tambahan
+- Representasi dualitas kreatif & logika Jester  
+- Telinga Fey & warna mata → simbol garis keturunan dan potensi sihir unik  
+- Masuk academy umur 16 → Bersama Jester
+- Bertemu Jester Sejak umur 9 tahun dan kemudian terus bersama bahkan hingga masuk Academy
+
+
+# Heroine 1 – Iam Matherys  
+
+## Identitas Dasar
+- **Nama:** Seraphine Althariel  
+- **Alias / Nickname:** Sera  
+- **Umur:** 25 tahun (9 tahun lebih tua dari Iam)  
+- **Gender:** Female  
+- **Ras:** Etherborn-Human Hybrid (50% Etherborn, 50% Human)  
+- **Elemen:** Light / Mana Manipulation  
+- **Tempat Lahir:** Luminara Citadel, Northern Kingdom  
+- **Kehidupan Saat Ini:** Guru Sihir Akademi Tinggi Luminara  
+- **Status Sosial:** Keluarga mage terhormat  
+
+## Penampilan Fisik
+- **Tinggi:** 175 cm  
+- **Berat:** 60 kg  
+- **Warna Rambut:** Perak berkilau dengan highlight emas  
+- **Warna Mata:** Amber bercahaya dengan fleck biru saat menggunakan sihir  
+- **Ciri Khas:** Sayap minor mana translucent yang muncul saat konsentrasi tinggi  
+- **Gaya Pakaian:** Jubah guru akademi dengan aksen cahaya, sarung tangan rune, sepatu boots tinggi  
+
+## Profil Psikologis
+- **Kepribadian:** Tegas tapi lembut, sangat cerdas, penuh empati, ambisi tersembunyi  
+- **Mekanisme Mental:** Planner & executor, cepat menilai situasi, intuitif dalam membaca niat orang lain  
+- **Trauma / Luka:** Kehilangan mentor mage → takut ketergantungan, sering menahan diri untuk tidak terlalu dekat dengan orang  
+
+## Kekuatan & Skill
+- Mastery Light / Mana Manipulation  
+- Strategi & Combat Tactics  
+- Healing Minor & Shielding  
+- Arcane Knowledge & Artifact Handling  
+- Mentor & Teacher Skill (mengajar murid berusia muda hingga dewasa)  
+
+## Batasan / Weaknesses
+- Ketergantungan tinggi pada mana eksternal (kekurangan mana → tidak bisa bertindak)  
+- Sensitif terhadap sihir dark / corruption  
+- Kadang terlalu protektif terhadap orang terdekat → membuat dirinya terjebak  
+
+## Sejarah / Latar Belakang
+- Dibesarkan di Luminara Citadel sebagai anak prodigy mage  
+- Memulai pelatihan sihir sejak umur 6 tahun, spesialisasi mana light manipulation  
+- Bertemu **Iam Matherys** saat Iam baru berumur 7 tahun dan mulai latihan clone → mengawasi & memberi arahan  
+- Sera menjadi guru di Akademi Tinggi Luminara saat Iam masuk akademi (Iam umur 16)  
+- Iam berjanji pada umur 7 tahun akan menikahinya suatu hari nanti → Sera berjanji akan menunggu janji tersebut  
+- Terlibat dalam studi artefak dan distorsi mana, menjadi partner Iam dalam riset strategi  
+
+## Hubungan & Dinamika
+- **Iam Matherys:** Hubungan kompleks → mentor & murid, rasa hormat, kasih sayang, janji masa kecil → potensi romance terbuka  
+- **Yuichi / Jester:** Respek & rasa tanggung jawab sebagai mentor / pelindung minor  
+- **Status Relasi:** Dinamis, berkembang seiring plot, janji masa kecil menjadi foreshadowing romantis  
+
+## Motivasi & Goals
+- Membantu Iam menguasai kekuatan clone & strategi  
+- Menjadi mage yang berpengaruh di dunia nyata  
+- Menyelidiki distorsi mana, artefak kuno, dan kejadian supernatural  
+- Menunggu janji masa kecil Iam → membangun koneksi emosional kuat  
+
+## Pola Tingkah Laku / Rutinitas
+- Mengajar & mengawasi murid akademi setiap hari  
+- Latihan sihir & combat setiap pagi  
+- Meditasi untuk kontrol mana dan energi emosional  
+- Studi artefak, riset magis, membaca sejarah dunia  
+
+## Afeksi & Preferensi
+- **Music / Emotional Anchor:** Instrumen string klasik, suara lonceng, musik ambient cahaya  
+- **Visual / Imajinasi:** Kota bercahaya di malam hari, kristal & cahaya, medan magis  
+- **Afeksi Fiktif:** Karakter anime / novel yang simbolisasi kecerdasan & ketenangan  
+
+## Foreshadowing / Catatan Masa Depan
+- Light mana mastery → kombinasi sinergi dengan clone Iam, memberi buff & support  
+- Konflik emosional mentor-murid → janji masa kecil sebagai katalisator romantis  
+- Perannya sebagai mentor → ujungnya akan menjadi kunci moral choice di plot besar  
+
+## Catatan Tambahan
+- Rune cahaya minor → passive shield & healing saat pertarungan kritikal  
+- Hybrid Etherborn-Human → cocok jadi connector antara manusia & ras Etherborn  
+- Sera punya insting survival tinggi, tapi emosinya terkadang membuatnya ragu untuk bertindak sendiri  
+- Janji masa kecil → foreshadowing pernikahan / koneksi emosional mendalam
+
+# Heroine 2 – Iam Matherys  
+
+## Identitas Dasar
+- **Nama:** Valeryn Aelthas  
+- **Alias / Nickname:** Vale  
+- **Umur:** 27 tahun (11 tahun lebih tua dari Iam)  
+- **Gender:** Female  
+- **Ras:** High Elf (Pure Elf Bloodline)  
+- **Elemen:** Wind / Illusion  
+- **Tempat Lahir:** Sylvaran Peaks, Eastern Territories  
+- **Kehidupan Saat Ini:** Peneliti Arcane / Mentor Taktik Akademi Luminara  
+- **Status Sosial:** Keluarga bangsawan elf, mage elit  
+
+## Penampilan Fisik
+- **Tinggi:** 178 cm  
+- **Berat:** 58 kg  
+- **Warna Rambut:** Putih perak panjang, menutupi sebagian punggung  
+- **Warna Mata:** Hijau zamrud bercahaya ketika mengaktifkan sihir angin atau ilusi  
+- **Ciri Khas:** Tato runik kuno di bahu kanan, aura ringan seperti kabut saat konsentrasi  
+- **Gaya Pakaian:** Jubah elf tradisional dengan motif angin, sarung tangan rune, sepatu boots ringan  
+
+## Profil Psikologis
+- **Kepribadian:** Serius, sedikit jahil, logis, suka sains & eksperimen, perfeksionis  
+- **Mekanisme Mental:** Cepat menganalisis situasi, kreatif dalam taktik, menikmati eksperimen kecil untuk pengamatan  
+- **Trauma / Luka:** Sedikit cemas saat kehilangan kontrol, takut gagal mendampingi yang penting  
+
+## Kekuatan & Skill
+- Mastery Wind Magic & Illusion  
+- Strategi / Taktik peperangan  
+- Manipulasi persepsi & stealth  
+- Mentor elite untuk murid akademi, ahli dalam psikologi musuh  
+- Seni duel & beladiri elf  
+
+## Batasan / Weaknesses
+- Fisik tidak terlalu kuat untuk pertarungan langsung → mengandalkan speed & sihir  
+- Overconfidence bisa membuatnya mengambil risiko berlebihan  
+- Kadang terlalu fokus pada eksperimen → bisa lalai terhadap lingkungan  
+
+## Sejarah / Latar Belakang
+- Dibesarkan di Sylvaran Peaks sebagai mage elit, dilatih sejak umur 4 tahun  
+- Pernah tinggal bersama **Iam Matherys** sejak Iam lahir hingga umur 5 tahun → bermain dan menemaninya  
+- Mengembangkan rasa protektif & kasih sayang sejak kecil terhadap Iam  
+- Saat Iam umur 5 tahun,Dan Vale 16 Bersiap Memasuki Academy,Iam berjanji akan menjadikannya istrinya suatu hari nanti  
+- Vale berkata: *“Jika hari itu tiba, aku tidak akan pergi lagi, jadi berjanjilah.”*  
+- Kini berada di posisi mentor dan peneliti elite akademi, mempersiapkan diri untuk mendampingi Iam di masa depan  
+
+## Hubungan & Dinamika
+- **Iam Matherys:** Janji masa kecil → hubungan emosional & romantis mendalam  
+- **Seraphine (Heroine 1):** Rekan mentor, saling menghormati, kadang rival friendly dalam membimbing Iam  
+- **Status Relasi:** Dinamis, janji masa kecil → foreshadowing pernikahan & koneksi emosional  
+
+## Motivasi & Goals
+- Membimbing Iam menjadi mage & strategist unggul  
+- Menjaga keseimbangan antara ilmu & emosi Iam  
+- Meneliti artefak & distorsi mana  
+- Menunggu janji masa kecil Iam → menjadi pendorong emosional utama  
+
+## Pola Tingkah Laku / Rutinitas
+- Latihan sihir & stealth setiap pagi  
+- Studi artefak, eksperimen sains magis  
+- Mengawasi murid akademi dan clone yang dilatih Iam  
+- Meditasi & refleksi di puncak Sylvaran Peaks untuk kontrol sihir dan fokus mental  
+
+## Afeksi & Preferensi
+- **Music / Emotional Anchor:** Suara angin, flute, chord minor elf  
+- **Visual / Imajinasi:** Pegunungan berkabut, langit senja, ilusi visual  
+- **Afeksi Fiktif:** Karakter anime/manga yang simbol ketenangan & kecerdikan  
+
+## Foreshadowing / Catatan Masa Depan
+- Wind + Illusion synergy → mendukung strategi & clone Yuichi/Jester  
+- Janji masa kecil → potensi romance & konflik emosi Iam  
+- Mentor elite → memberi insight moral choice dalam plot besar  
+
+## Catatan Tambahan
+- Aura kabut minor → passive stealth & perception buff  
+- High Elf → keunggulan umur panjang & fisik ringan  
+- Insting survival tinggi → selalu berada selangkah lebih maju dari ancaman  
+- Janji masa kecil Iam → foreshadowing pernikahan & koneksi emosional mendalam
+
+- # Heroine 3 – Iam Matherys
+
+## Identitas Dasar
+- **Nama:** Althea Veyran  
+- **Alias / Nickname:** Headmistress / Althea  
+- **Umur:** 29 tahun saat pertemuan pertama dengan Iam di hutan  
+- **Gender:** Female  
+- **Ras:** High Human Mage  
+- **Elemen:** Light / Space  
+- **Tempat Lahir:** Celesthaven, Northern Kingdom, Aetherion  
+- **Kehidupan Saat Ini:** Headmistress Northern Arcane Institute  
+- **Status Sosial:** Elite mage & pemimpin akademi  
+
+## Penampilan Fisik
+- **Tinggi:** 178 cm  
+- **Berat:** 63 kg  
+- **Warna Rambut:** Platinum blonde, panjang sebahu  
+- **Warna Mata:** Violet cerah  
+- **Ciri Khas:** Aura magis kuat, tato rune Light-Space di lengan kanan  
+- **Gaya Pakaian:** Jubah resmi Headmistress NAI, motif rune ruang & cahaya  
+
+## Profil Psikologis
+- **Kepribadian:** Serius, bijaksana, sedikit jahil terhadap siswa tertentu, tegas  
+- **Mekanisme Mental:** Analitis, cepat mengambil keputusan strategis, peka terhadap energi mana  
+- **Trauma / Luka:** Pernah kehilangan mentor, tekanan memimpin akademi elite  
+- **Sifat Unik:** Anak lahir hanya setelah 5 tahun di kandungan → perut tetap seperti bumil  
+
+## Kekuatan & Skill
+- Mastery Light & Space Magic  
+- Strategi akademik & militer  
+- Combat arts: Swordsmanship, Tactical Magic Combat  
+- Leadership & Diplomacy  
+
+## Batasan / Weaknesses
+- Terlalu protektif terhadap murid unggulan (misal Iam & clones)  
+- Kadang terlalu serius → sulit mengekspresikan sisi emosional  
+
+## Sejarah / Latar Belakang
+- Dibesarkan di Celesthaven, dilatih sejak umur 5 tahun oleh High Council Aetherion  
+- Pernah tinggal sementara dengan keluarga Iam saat Iam berumur 0–5 tahun, menemani & mengasuh sedikit  
+- Menjadi guru elite → kemudian headmistress sebelum Iam masuk academy  
+- Bertemu Iam saat Iam masih melatih clone, mengamati potensinya  
+
+### Pertemuan Hutan Monster (Iam 14, Althea 29)
+- Saat Iam berumur 14, berjalan di hutan berbahaya untuk latihan survival  
+- Mendapati Althea terluka parah, terkena **afrosidiak eksperimental** yang melemahkan kondisi fisiknya  
+- Iam membantu membersihkan efek afrosidiak dengan metode unik → Althea sembuh sepenuhnya  
+- Althea menghilang setelah itu, berkata:  
+  > "Aku akan mencarimu nanti, wahai pahlawanku."  
+- Pertemuan ini menandai awal janji mereka, memperkuat hubungan mentor-pelindung → calon pasangan  
+- Uniknya, anak Althea lahir hanya setelah 5 tahun di kandungan, sehingga perutnya terlihat besar  seperti bumil
+
+## Hubungan & Dinamika
+- **Iam Matherys:** Hubungan kompleks, guru & mentor sekaligus calon pasangan yang dijanjikan  
+- **Clones Iam (Yuichi & Jester):** Melatih mereka, menekankan disiplin, loyal terhadap Althea  
+- **Status Relasi:** Emosi campur → rasa sayang mendalam, hormat, janji masa depan  
+
+## Motivasi & Goals
+- Melindungi potensi Iam dan clones  
+- Memimpin akademi menjadi pusat mage & strategi terkuat  
+- Mengembangkan penelitian Light-Space magic & clone experiment  
+- Mempersiapkan Iam menjadi mage terhebat dunia  
+
+## Pola Tingkah Laku / Rutinitas
+- Memimpin akademi, memantau latihan & eksperimen siswa unggulan  
+- Mengawasi pertumbuhan Iam & clones dari jauh  
+- Strategi & riset artefak kuno  
+- Ritual meditasi & latihan Light-Space Magic  
+
+## Afeksi & Preferensi
+- **Music / Emotional Anchor:** Instrumen klasik, choir ethereal  
+- **Visual / Imajinasi:** Langit malam, bintang, aurora, menara akademi  
+- **Afeksi Fiktif:** Tidak terbuka, menjaga aura misterius  
+
+## Foreshadowing / Catatan Masa Depan
+- Menjadi mentor moral & strategis utama Iam  
+- Memiliki peran sentral dalam konflik besar, terutama yang terkait artefak kuno & eksperimen clone  
+- Pertemuan hutan → titik penting janji masa depan dengan Iam  
+
+## Catatan Tambahan
+- Headmistress tertua yang masih aktif memimpin NAI, reputasi tanpa cela  
+- Simbol Light-Space → keseimbangan kekuatan & logika, pengaruhnya memengaruhi sistem akademi  
+- Menjadi satu-satunya heroine utama Iam yang memiliki kendali langsung atas akademi dan jalur pendidikan Iam
+
 # MC: Iam Matherys — Wiki Profile (Updated)
 
 ## 1. Identitas Dasar
@@ -4313,3 +4784,88 @@ CHARACTER PENTING/PENDUKUNG-
 ---
 
 > Jester adalah ciptaan Iam yang sepenuhnya “hidup” dengan ego, kreativitas, dan tujuan sendiri. Fokus pada sulap, sihir ruang, dan strategi, dia melengkapi Yuichi dan Iam sebagai tim survival & eksperimen hidup.
+>
+# Academy of Aetherion – Northern Arcane Institute (NAI)  
+
+## Identitas Dasar
+- **Nama Resmi:** Northern Arcane Institute  
+- **Alias / Nickname:** NAI / Arcane Academy  
+- **Lokasi:** Frostspire Mountains, Northern Kingdom, Aetherion  
+- **Koordinat Geografis:** 68°N, 12°E (Frostspire Peak Summit)  
+- **Umur Masuk Wajib:** 16 tahun  
+- **Jenis Institusi:** Akademi Sihir, Strategi & Penelitian Magis  
+- **Status:** Publik, diakui kerajaan & guild mage  
+- **Alumni Terkenal:** Master mage, strategist kerajaan, penjelajah dunia, pencipta artefak kuno  
+
+## Sejarah & Latar Belakang
+- **Didirikan:** Tahun 452 Era Utara  
+- **Pendiri:** Archmage Selvaris Thorne & High Council Aetherion  
+- **Tujuan Awal:** Menyaring, melatih, dan melindungi mage potensial agar tidak disalahgunakan  
+- **Perubahan Signifikan:**  
+  - Tahun 512: Penambahan Shadow Wing untuk eksperimen magis berisiko tinggi  
+  - Tahun 589: Integrasi program clone & mana eksperimen bagi siswa unggulan  
+  - Tahun 623: Dibuka sistem diplomasi & strategi militer  
+
+## Struktur Organisasi
+- **Dewan Akademi (Council of Masters):** 12 anggota, mengatur kurikulum, misi lapangan, penelitian artefak, dan regulasi sihir  
+- **Kepala Akademi (Headmistress):** High Human Archmage Althea Veyran  
+- **Departemen:**  
+  - Elemental Studies (Air, Fire, Earth, Water, Light, Dark, Shadow, Space)  
+  - Combat Arts (Judo, Swordsmanship, Kendo, Taekwondo, Tactical Magic Combat)  
+  - Strategy & Diplomacy (Ekonomi, Politik, Warfare, Negotiation)  
+  - Arcane Research & Artifacts (Studi artefak kuno, rune, relic)  
+  - Healing & Alchemy (Pengembangan potion, recovery & medical magic)  
+  - Clone & Mana Experiments (Eksperimen sihir tingkat tinggi, hanya untuk siswa elite)  
+
+## Bangunan & Fasilitas
+- **Menara Mana:** Library utama, laboratorium rune, ruang eksperimen magis  
+- **Hall of Elements:** Latihan elemen, simulasi lingkungan & medan tempur  
+- **Shadow Wing:** Eksperimen sihir gelap, ruang isolasi, protokol keamanan tinggi  
+- **Arena Combat:** Arena indoor/outdoor untuk duel & pertarungan taktis  
+- **Dormitories:** Terpisah berdasarkan ras, umur, dan kelas  
+- **Pusat Healing & Recovery:** Infirmary magis, simulasi pemulihan cepat  
+- **Laboratorium Artefak:** Penelitian relic, rune, crystal mana, artefak purba  
+- **Training Grounds Outdoor:** Survival, trekking ekstrem, simulasi medan nyata  
+- **Vault of Forbidden Knowledge:** Akses terbatas, menyimpan naskah kuno, grimoires, dan catatan eksperimen berbahaya  
+
+## Kurikulum & Jalur Pendidikan
+- **Durasi Pendidikan:** 6 tahun (16–22 tahun)  
+- **Angkatan:**  
+  - 16 Tahun: Kelas 1 → dasar elemen & combat  
+  - 17 Tahun: Kelas 2 → advanced magic & strategi  
+  - 18 Tahun: Kelas 3 → taktik & praktek lapangan  
+  - 19–22 Tahun: Senior → misi lapangan, penelitian, clone & artefak  
+  - 23 Tahun: Lulus → opsi guru / misi elite  
+- **Elemen Sihir:** Water, Fire, Earth, Air, Light, Dark, Shadow, Space  
+- **Combat Arts:** Judo, Swordsmanship, Kendo, Taekwondo, Tactical Magic Combat  
+- **Strategi & Diplomasi:** Politik, Ekonomi, Negosiasi, Warfare, Leadership  
+- **Praktikum:** Penelitian artefak, misi lapangan, survival magis, simulasi bencana  
+- **Sistem Penilaian:**  
+  - Praktik Sihir & Duel: 40%  
+  - Akademik & Teori: 30%  
+  - Strategi & Misi Lapangan: 30%  
+- **Tugas Senior:** Membimbing siswa junior, eksperimen artefak, memimpin simulasi medan tempur  
+
+## Regulasi & Kode Etik
+- **Usia Masuk Wajib:** 16 tahun → untuk mencegah penyalahgunaan sihir dini  
+- **Ujian Seleksi:** Tes elemen dasar, combat skill, strategi mental, moral judgment  
+- **Kode Etik:**  
+  - Tidak menggunakan sihir untuk keuntungan pribadi  
+  - Menghormati hierarki guru & senior  
+  - Menjaga artefak & pengetahuan akademi  
+  - Melindungi murid junior dan mengikuti protokol eksperimen  
+
+## Keunikan & Catatan
+- Akademi elit → reputasi menghasilkan mage & strategist terkuat  
+- Alumni menjadi pemimpin, master mage, penjelajah dunia, dan pencipta artefak  
+- Latihan kombinasi elemen gelap & ruang khusus untuk siswa unggulan  
+- Program “Clone & Mana Experiment” → hanya untuk siswa pilihan dan proteksi khusus  
+- Arena Combat memiliki medan berubah-ubah → mempersiapkan mage untuk peperangan nyata  
+- Shadow Wing dilengkapi rune pengamanan & magic barrier → mengurangi risiko eksperimen gelap  
+- Vault of Forbidden Knowledge → akses terbatas oleh Dewan Akademi, menyimpan rahasia sihir terlarang & blueprint artefak kuno  
+
+## Catatan Tambahan
+- Semua bangunan dihubungkan portal internal → efisiensi latihan & transportasi cepat  
+- Siswa senior dapat memimpin simulasi lapangan & eksperimen tingkat tinggi  
+- Akademi menjadi pusat diplomasi antar-ras di Aetherion, hosting konferensi tahunan  
+- Setiap murid wajib membuat “Mana Record Log” → mendokumentasikan pertumbuhan elemen & pengalaman lapangan
