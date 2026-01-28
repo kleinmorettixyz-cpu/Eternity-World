@@ -3953,7 +3953,8 @@ CHARACTER PENTING/PENDUKUNG-
 - **Nama:** Iam Matherys  
 - **Alias internal:** Iam / Jester  
 - **Jenis Kelamin:** Laki-laki  
-- **Ras:** Human (Manusia)  
+- **Ras:** Human (Manusia)
+- **Umur:** 8
 - **Status Eksistensi:** Reinkarnasi (memori parsial & tidak stabil)  
 - **Kelas Sosial:** Keluarga biasa (non-bangsawan)  
 - **Citra Luar:** Pendiam, sopan, tidak menonjol  
